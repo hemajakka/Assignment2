@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robber_Assignment", "Robber_Assignment.csproj", "{A9C4E4FC-7A64-4029-9F87-A997672FFBEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9C4E4FC-7A64-4029-9F87-A997672FFBEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C4E4FC-7A64-4029-9F87-A997672FFBEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C4E4FC-7A64-4029-9F87-A997672FFBEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C4E4FC-7A64-4029-9F87-A997672FFBEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F7A451D-EC03-4E88-841B-5AA9B87FD2AE}
+	EndGlobalSection
+EndGlobal
